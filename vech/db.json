@@ -1,0 +1,26 @@
+{
+  "vehicle": [
+    {
+      "vechno": "Kl-08-Ag-563",
+      "lastName": "francy",
+      "colors": "blue",
+      "id": 1
+    },
+    {
+      "vechno": "kl-08-bw-333",
+      "lastName": "kumari",
+      "colors": "green",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
